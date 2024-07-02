@@ -1,3 +1,6 @@
+//This file contains information about the calculated straignt-line equations.
+//Example below:
+
 Прямая проходит через точки: 0-2-3; Уравнение прямой: x = 1.
 Прямая проходит через точки: 1-2; Уравнение прямой: y = 4 * x + -4.
 Прямая проходит через точки: 2-4; Уравнение прямой: y = 0.
