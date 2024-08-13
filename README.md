@@ -1,3 +1,5 @@
+# Straight-line_Equation_Calculator
+
 Console application that creates a specified number of points in 2D space and then calculates if there are any straight lines between these points.
 Points' coordinates are stored in the HashMap (which is not necessary, but was required by the task).
 
